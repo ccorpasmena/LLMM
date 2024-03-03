@@ -1,0 +1,15 @@
+@keyframes rotar{
+
+	from{
+		transform: rotate(0deg);
+	}
+
+	to{
+		transform: rotate(360deg);
+	}
+}
+
+.mi-elemento{
+	animation: rotar 2s;	
+}
+

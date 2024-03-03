@@ -1,0 +1,16 @@
+div{
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    background-color: crimson;
+}
+
+span{
+    background-color: steelblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    list-style-type: none;
+    text-align: center;
+    margin: 10px 10px;
+}

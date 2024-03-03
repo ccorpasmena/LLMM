@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.hijo{
+    width: 100px;
+    height: 80px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin: 10px;
+}

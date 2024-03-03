@@ -1,0 +1,9 @@
+/*div{
+    border-color: gray;
+    border-width: 1px;
+    border-style: dotted;
+}*/
+
+div{
+    border: 1px solid gray;
+}

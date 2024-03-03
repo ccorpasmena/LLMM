@@ -1,0 +1,7 @@
+button:disabled{
+    color: red;
+}
+
+button:enabled{
+    color: green;
+}

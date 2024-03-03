@@ -1,0 +1,157 @@
+*{
+    text-align: center;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+    width: 100%;
+    background-color: orange;
+}
+
+img{
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav{
+    background-color: orange;
+    padding-bottom: 0.5em;
+}
+
+nav ul{
+    width: 100%;
+    display: inline-block;
+}
+
+nav li{
+    width: 100%;
+    list-style-type: none;
+}
+
+nav a[href="#about"]{
+    float: left;
+    width: 47.5%;
+    margin-left: 2.5%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+nav a[href="#skills"]{
+    float: left;
+    width: 47.5%;
+    margin-right: 2.5%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+nav a:hover{
+    background-color: rgb(76, 144, 207);
+    color: white;
+}
+
+#about{
+    margin-top: 2.5%;
+}
+
+main p{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 16px;
+}
+
+main h2{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(76, 144, 207);
+}
+
+#skills{
+    margin-top: 2.5%;
+}
+
+#skills ul{
+    display: inline-flex;
+    margin-top: 1%;
+}
+
+#skills li:nth-child(1){
+    display: inline-block;
+    padding: 7px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+#skills li:nth-child(2){
+    display: inline-block;
+    padding: 7px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+#skills li:nth-child(3){
+    display: inline-block;
+    padding: 7px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+#skills li:nth-child(4){
+    display: inline-block;
+    padding: 15px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+#skills li:nth-child(5){
+    display: inline-block;
+    padding: 7px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+#skills li{
+    margin-right: 3%;
+}
+
+#skills li:hover{
+    background-color: rgb(76, 144, 207);
+}
+
+footer{    
+    margin-top: 2em;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: rgb(76, 144, 207);
+    color: white;
+}

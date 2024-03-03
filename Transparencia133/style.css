@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo{
+    width: 100px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin: 10px;
+}

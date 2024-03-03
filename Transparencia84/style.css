@@ -1,0 +1,26 @@
+.height-example{
+    width: 250px;
+    margin-bottom: 5px;
+    border: 3px solid #999999;
+}
+
+#lightblue{
+    height: 80px;
+    background-color: lightblue;
+}
+
+#blueviolet{
+    height: 40px;
+    background-color: blueviolet;
+}
+
+#parent{
+    height: 100px;
+    background-color: crimson;
+}
+
+#child{
+    height: 50%;
+    width: 75%;
+    background-color: goldenrod;
+}

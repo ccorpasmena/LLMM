@@ -1,0 +1,15 @@
+@keyframes cambiarColor{
+
+	from{
+		background-color: red;
+	}
+
+	to{
+		background-color: blue;
+	}
+}
+
+.mi-elemento{
+	animation: cambiarColor 2s;	
+}
+

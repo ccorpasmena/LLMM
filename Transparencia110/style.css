@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;    
+}
+
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    color: whitesmoke;
+}
+
+#two{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    background: red;
+}

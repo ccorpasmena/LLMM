@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@font-face {
+    font-family: Bergdool;
+    src: url(/Transparencia81/fonts/Bergdool-w1EmZ.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+      
+*{
+    font-family: 'Open Sans', sans-serif;    
+}
+
+h1,h2{
+    font-size: 100px;
+    font-family: 'Bergdool', cursive;
+    margin-bottom: 15px;
+    color: black;
+}
+

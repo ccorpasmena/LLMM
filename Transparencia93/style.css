@@ -1,0 +1,7 @@
+.margin-example{
+    width: 200px;
+    margin: auto;
+    padding: 10px / 10px 5px / 10px 5px 8px / 10px 5px 8px 2px;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}

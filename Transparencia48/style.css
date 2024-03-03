@@ -1,0 +1,7 @@
+input:required::placeholder{
+    color: crimson;
+}
+
+input{
+    width: 100%;
+}

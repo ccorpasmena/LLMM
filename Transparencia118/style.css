@@ -1,0 +1,21 @@
+div{
+    min-height: 200px;
+    border: 2px solid black;
+}
+
+#header, #page, #footer{
+    background: grey;
+}
+#page{
+    display: flex;
+}
+
+#menu{
+    background: blue;
+    width: 30%;
+}
+
+#content{
+    background: lightgrey;
+    width: 70%;
+}

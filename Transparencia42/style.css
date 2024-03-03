@@ -1,0 +1,3 @@
+main :not(h1){
+    color: orange;
+}

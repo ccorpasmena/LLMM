@@ -1,0 +1,14 @@
+@keyframes cambiarColor{
+
+	from{
+		background-color: red;
+	}
+
+	50%{
+		background-color: blue;
+	}
+	100%{
+		background-color: green;
+	}
+}
+

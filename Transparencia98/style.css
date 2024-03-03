@@ -1,0 +1,8 @@
+div{
+    border: 2px solid blue;
+    border-radius: 8px;        
+}
+
+.element{
+    box-shadow: 10px 10px;    
+}

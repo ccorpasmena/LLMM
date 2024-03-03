@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.hijo{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin: 10px;
+}

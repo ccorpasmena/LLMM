@@ -1,0 +1,22 @@
+.flex-container{
+    width: 350px;
+    height: 150px;
+    padding: 5px;
+    margin: 10px auto;
+    background-color: blueviolet;
+    display: flex;    
+    align-items: flex-start;
+}
+
+.flex-item{
+    display: inherit;
+    flex-basis: 150px;
+    background-color: #ccc;
+    margin: 5px;
+}
+
+.flex-container .flex-start{
+    background-color: yellow;
+    align-self: flex-end;
+    flex-shrink: 2;
+}
